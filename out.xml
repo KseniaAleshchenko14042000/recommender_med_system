@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <family>[1]</family>
+    <name>[1]</name>
+    <sname>[1]</sname>
+    <age>[1]</age>
+    <smcn>[1]</smcn>
+    <alchl>[1]</alchl>
+    <curMed>[1, 1, 1]</curMed>
+  </row>
+</data>
